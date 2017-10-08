@@ -1,0 +1,7 @@
+30        Snickers             0.60        90
+31        Hershey Bar          1.00       110
+32        Kit Kat              0.90        80
+33        Milky Way            1.10        60
+34        Twix                 0.80        20
+35        M&M's                0.50        40
+36        Tootsie Roll         0.09        30
